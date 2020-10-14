@@ -6,7 +6,7 @@ In this folder you will find the notebooks we will use for the coding component 
 
 The schedule for this tutorial is as follows. (NOTE: All times are US Mountain Daylight Time, UTC-6.)
 
-### Session 1 (1045 - 1215): Qubit-level benchmarks
+### Session 1 (1045 - 1215): Qubit-level benchmarks & measurement error mitigation
 
 * 1045 - 1130: Talk by Antonio Corcoles
 
