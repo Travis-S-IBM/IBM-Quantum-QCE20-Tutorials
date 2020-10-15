@@ -12,11 +12,11 @@ The schedule for this tutorial is as follows. (NOTE: All times are US Mountain D
 
 * 1130 - 1215: Coding Examples
 
-### Session 2 (1300 - 1430): [TITLE TBD]
+### Session 2 (1300 - 1430): Benchmarking quantum gates
 
-* 1300 - ?: Talk by Hanhee Paik
+* 1300 - 1330: Talk by Hanhee Paik
 
-* ? - 1430: Coding Examples
+* 1330 - 1430: Coding Examples
 
 ### Session 3 (1515 - 1645): Holistic Benchmarking
 
